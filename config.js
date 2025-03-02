@@ -10,12 +10,12 @@ module.exports = {
   underDevelopment: false,
   developers: [
     {
-      name: "Jason Midul",
-      id: "948807824446742568",
+      name: "Jay",
+      id: "944011837266096139",
     },
     {
-      name: "theassassin0128",
-      id: "720186844540567583",
+      name: "Jake",
+      id: "232222592050659328",
     },
   ],
   devGuilds: [
