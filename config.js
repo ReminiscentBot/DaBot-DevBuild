@@ -20,18 +20,14 @@ module.exports = {
   ],
   devGuilds: [
     {
-      name: "Test Electro",
-      id: "1096824161403420726",
-    },
-    {
-      name: "Hopeless Fellows",
-      id: "1054284394791178291",
+      name: "TestServer1",
+      id: "1345534207136632984",
     },
   ],
   betaTestGuilds: [
     {
-      name: "Chapry Academy",
-      id: "1280838788591124541",
+      name: "BetaTestServer1",
+      id: "1345534207136632984",
     },
   ],
   logWebhook: process.env.logWebhook,
